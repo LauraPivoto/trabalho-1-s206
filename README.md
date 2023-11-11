@@ -15,3 +15,13 @@ Certifique-se de ter o Node.js instalado em sua máquina. O Cypress será instal
 
    ```bash
    git clone https://github.com/seu-usuario/seu-projeto-cypress.git
+
+2. Acesse a pasta /teste:
+
+   ```bash
+   cd /testes
+
+3. Rode esse comando no cmd:
+
+   ```bash
+   npm i --save-dev cypress-mochawesome-reporter
