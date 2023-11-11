@@ -21,10 +21,10 @@ Certifique-se de ter o Node.js instalado em sua máquina. O Cypress será instal
    ```bash
    cd /testes
 
-3. Rode esse comando no cmd:
+3. Rode esse comando no cmd, para rodar os testes e gerar o relatório:
 
    ```bash
    npm i --save-dev cypress-mochawesome-reporter
 
 ## Observação
-Como a página demora demais para testar, o código dá que esperou e que não vai rodar o teste. Mas caso teste cada um de cada vez não terá problemas.
+Como a página demora demais para testar, o código dá que esperou e que não vai rodar o teste. Mas caso teste cada um de cada vez não terá problemas. O relatório pode ser acessado dentro da pasta reports.
