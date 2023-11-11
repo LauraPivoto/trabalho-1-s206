@@ -10,7 +10,7 @@ Este projeto utiliza o framework Cypress para realizar testes automatizados em u
 ## Pré-requisitos
 Certifique-se de ter o Node.js instalado em sua máquina. O Cypress será instalado como uma dependência de desenvolvimento do Node.js.
 
-## Instalação
+## Passo a passo
 1. Clone este repositório:
 
    ```bash
@@ -25,3 +25,6 @@ Certifique-se de ter o Node.js instalado em sua máquina. O Cypress será instal
 
    ```bash
    npm i --save-dev cypress-mochawesome-reporter
+
+## Observação
+Como a página demora demais para testar, o código dá que esperou e que não vai rodar o teste. Mas caso teste cada um de cada vez não terá problemas.
